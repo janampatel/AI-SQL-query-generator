@@ -5,7 +5,8 @@ This is a minimalistic web application built with Streamlit that allows users to
 
 ## Pre requisites
 Libraries:
-flask, openai, pathlib, streamlit, streamlit_lottie 
+flask, openai, pathlib, streamlit, streamlit_lottie
+
 Others:
 LM studio, VS code, SQL Lite, Browser(for user interaction)
 
